@@ -1,4 +1,4 @@
-# carBattle
+# Deep Reinforcement Learning Car Shooting Battle
 ## Requirements
 - Python3
 - Pytorch
@@ -55,7 +55,7 @@ man-machine combat
 
 ### second-version
 The red cars use MADDPG and the blue car uses random strategy to start training in the obstacle-free enviroment
-![23-6](imgs/23-6.gif)
+![run23_6](imgs/run23_6.gif)
 ## Reference:
 - Box2d manual：https://github.com/pybox2d/pybox2d/wiki/manual 
 - JachinShen：https://github.com/JachinShen/supreme-invention
