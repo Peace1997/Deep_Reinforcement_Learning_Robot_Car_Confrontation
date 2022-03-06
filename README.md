@@ -1,4 +1,4 @@
-# Deep Reinforcement Learning Car Shooting Battle
+# Deep Reinforcement Learning  Robot Car Confrontation
 ## Requirements
 - Python3
 - Pytorch
